@@ -10,4 +10,4 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+To install the repo on your machine go ahead and click the green code button on the main page, above the file list. copy the url and open whatever IDE editor you prefer. VSCODE is easy to use and lets you copy the repo directly. CLick the button on that says clone repo, confirm that it's from Github, aste in the URL that you copied, and then speciofy a location on your machine. Yous hould then be able to work on the repo as you like.*[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
